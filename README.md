@@ -1,8 +1,8 @@
-# 2024 Finance Graduate Jobs by Huzzle
+# 2024 Marketing Graduate Jobs by Huzzle
 
-Use this repo to find 100+ finance graduate jobs that are still accepting applications 🏦
+Use this repo to find 100+ marketing graduate jobs that are still accepting applications 🏦
 
-⚠️ Please note that this repository is exclusively for finance graduate jobs in the United Kingdom 🇬🇧
+⚠️ Please note that this repository is exclusively for marketing graduate jobs in the United Kingdom 🇬🇧
 
 
 -----
